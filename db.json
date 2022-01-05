@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "test"
+    }
+  ],
+  "profile": [
+  {
+  "id":1
+    "name": "typicode"
+  }
+  ]
+}
